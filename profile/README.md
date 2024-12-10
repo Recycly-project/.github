@@ -28,35 +28,11 @@ Indonesia struggles with a major plastic waste problem, contributing significant
 
 - **Reward System** 🎁: Users earn points for properly disposing of their bottles. This encourages sustainable behavior and promotes recycling.
 
-- **Mobile App** 📱: An Android app that allows users to scan and categorize plastic bottles. The app connects to the backend system in real-time via Firebase and allocates points for proper bottle disposal.
+- **Mobile App** 📱: An Android app that allows users to scan and categorize plastic bottles. The app connects to the backend system in real-time and allocates points for proper bottle disposal.
 
 ## ⚙️ **Technologies Used** ⚙️
 
 - **Machine Learning** 🧠: CNN-based image classification.
-- **Mobile Development** 📲: Android with Firebase.
-- **Cloud Computing** ☁️: Firebase for storage and deployment.
+- **Mobile Development** 📲: Kotlin.
+- **Cloud Computing** ☁️: Google Cloud Platform.
 
-## 🛠️ **Setup and Installation** 🛠️
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/recycly.git
-   cd recycly
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the backend:
-   ```bash
-   python app.py
-   ```
-
-## 🤝 **Contributing** 🤝
-
-Feel free to fork, make changes, and submit a pull request. We welcome contributions to improve Recycly! 🌍
-
-
-## 📧 **Contact** 📧
