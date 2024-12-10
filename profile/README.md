@@ -33,6 +33,6 @@ Indonesia struggles with a major plastic waste problem, contributing significant
 ## ⚙️ **Technologies Used** ⚙️
 
 - **Machine Learning** 🧠: CNN-based image classification.
-- **Mobile Development** 📲: Kotlin.
+- **Mobile Development** 📲: Android Studio , Kotlin .
 - **Cloud Computing** ☁️: Google Cloud Platform.
 
